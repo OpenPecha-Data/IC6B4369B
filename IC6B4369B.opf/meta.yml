@@ -1,0 +1,47 @@
+id: IC6B4369B
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+source_file: null
+initial_creation_type: input
+imported: '2022-05-27T15:21:50.218116'
+last_modified: '2022-05-27T15:21:50.218128'
+parser: null
+source_metadata:
+  title: Maitreyavyākaraṇa
+  language: sa
+  base:
+    f90F1:
+      title: nidāna
+      base_file: f90F1.txt
+      order: 1
+    f3442:
+      title: §1-20
+      base_file: f3442.txt
+      order: 2
+    f604D:
+      title: §21-40
+      base_file: f604D.txt
+      order: 3
+    f08E5:
+      title: §41-60
+      base_file: f08E5.txt
+      order: 4
+    f45F1:
+      title: §61-80
+      base_file: f45F1.txt
+      order: 5
+    f6B76:
+      title: §81-100
+      base_file: f6B76.txt
+      order: 6
+    f6282:
+      title: colophon
+      base_file: f6282.txt
+      order: 7
+  chapter_to_tile: {}
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null

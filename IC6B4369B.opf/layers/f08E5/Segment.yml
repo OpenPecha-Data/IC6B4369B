@@ -1,0 +1,104 @@
+id: 4d4bbcf7234943568a10d128eb4d63d1
+annotation_type: Segment
+revision: '00001'
+annotations:
+  08c6f590737e42dcbaf361996adbd107:
+    span:
+      start: 0
+      end: 103
+    metadata: {}
+  58d35499517d40488a1df176fc361025:
+    span:
+      start: 106
+      end: 211
+    metadata: {}
+  1a640bad245542bab99f3e67e683ef49:
+    span:
+      start: 214
+      end: 312
+    metadata: {}
+  38330eb7e19e4aa5a85b1d90d15c9f61:
+    span:
+      start: 315
+      end: 420
+    metadata: {}
+  43c513c6bbf04cacb4d4781b93d0a477:
+    span:
+      start: 423
+      end: 526
+    metadata: {}
+  64b572afbb824d628885b304f56fd901:
+    span:
+      start: 529
+      end: 632
+    metadata: {}
+  653576ef8cff465ea5dc138f0c0e0928:
+    span:
+      start: 635
+      end: 735
+    metadata: {}
+  02f7fa6c1c284965a1f55fb5df2793b0:
+    span:
+      start: 738
+      end: 832
+    metadata: {}
+  10705fb0d1434e2daab49fa336ae620f:
+    span:
+      start: 835
+      end: 932
+    metadata: {}
+  776777137a094d0d8d5f1d0bcefe035e:
+    span:
+      start: 935
+      end: 1034
+    metadata: {}
+  413379bef4b84838a350275b2002bc5a:
+    span:
+      start: 1037
+      end: 1143
+    metadata: {}
+  ac09bdcd5353472792a278c23857e590:
+    span:
+      start: 1146
+      end: 1242
+    metadata: {}
+  cb3d9ee19155429e8035a22f4f170a56:
+    span:
+      start: 1245
+      end: 1352
+    metadata: {}
+  75de0c8fc8da42f39317b043868799cd:
+    span:
+      start: 1355
+      end: 1504
+    metadata: {}
+  c131526010a94370bead772b1d8982b2:
+    span:
+      start: 1507
+      end: 1610
+    metadata: {}
+  8470b17b174a48608188d9296d54d5cd:
+    span:
+      start: 1613
+      end: 1708
+    metadata: {}
+  d436a066744944a1b12ae3c1c396be45:
+    span:
+      start: 1711
+      end: 1810
+    metadata: {}
+  f927e31714f64b719553bfe783060ace:
+    span:
+      start: 1813
+      end: 1915
+    metadata: {}
+  0156ccf6d4ca40cf9e60e6794451386c:
+    span:
+      start: 1918
+      end: 2013
+    metadata: {}
+  b2be57ccd4b4498390cecff60e5b300c:
+    span:
+      start: 2016
+      end: 2119
+    metadata: {}
